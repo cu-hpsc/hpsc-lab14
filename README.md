@@ -5,7 +5,9 @@ Click to [make your own repo](https://classroom.github.com/a/ybZp1i5C).
 
 The goals for this lab include:
 * Use FFTW
-* Investigate FFTW Wisdom
+* Investigate FFTW Wisdom as an autotuning approach.
+
+A parallel lab possibility is to use Fourier Transforms for solving PDEs.  If that is more your interest, see the Spectral.ipynb notebook.
 
 -----
 
